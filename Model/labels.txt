@@ -1,0 +1,9 @@
+0 Bien
+1 Chao
+2 Gracias
+3 Hola
+4 Mal
+5 No
+6 Perdon
+7 Si
+8 Te Amo
